@@ -1,0 +1,3 @@
+rootProject.name = 'RNTwilio'
+
+include ':app'
